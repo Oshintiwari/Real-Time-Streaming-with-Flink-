@@ -18,14 +18,15 @@ Developed a real-time analytics pipeline using Apache Flink and Kafka to process
 - Improved actionable insights delivery by 25%.
 
 Steps to Run:
-Ensure Java (JDK 8 or higher) and Python are installed on your system. Install Apache Flink and Apache Kafka. Set up Elasticsearch for visualizations.
 
-Install necessary Python libraries such as apache-flink and elasticsearch using your preferred package manager.
+1. Ensure Java (JDK 8 or higher) and Python are installed on your system. Install Apache Flink and Apache Kafka. Set up Elasticsearch for visualizations.
 
-Clone the GitHub repository from the provided link and navigate into the project directory.
+2. Install necessary Python libraries such as apache-flink and elasticsearch using your preferred package manager.
 
-Start Kafka and create a topic to be used for real-time streaming.
+3. Clone the GitHub repository from the provided link and navigate into the project directory.
 
-Submit the Flink job by running the Python script provided in the repository.
+4. Start Kafka and create a topic to be used for real-time streaming.
 
-Set up Elasticsearch and Kibana to create dashboards and visualize the results. Verify the processed output in the Elasticsearch index.
+5. Submit the Flink job by running the Python script provided in the repository.
+
+6. Set up Elasticsearch and Kibana to create dashboards and visualize the results. Verify the processed output in the Elasticsearch index.
